@@ -1,5 +1,5 @@
 .meme{
-    max-width: 400px;
+    max-width: 50%;
 }
 .container{
     display: flex;
@@ -7,6 +7,6 @@
 }
 @media (max-width: 400px) {
     .meme{
-        width: 90%;
+        width: 40%;
     }
 }
