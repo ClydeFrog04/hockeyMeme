@@ -1,5 +1,5 @@
 .meme{
-    max-width: 200px;
+    width: 200px;
 }
 .container{
     display: flex;
