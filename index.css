@@ -1,12 +1,7 @@
 .meme{
-    max-width: 50%;
+    max-width: 200px;
 }
 .container{
     display: flex;
     justify-content: center;
-}
-@media (max-width: 400px) {
-    .meme{
-        width: 40%;
-    }
 }
